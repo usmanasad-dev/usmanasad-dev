@@ -34,5 +34,5 @@ I'm a Computer Science student at Sukkur IBA University, interested in programmi
 
 ### Connect With Me
 
-- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/muhammad-usman-asad-135b87373)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/muhammad-usman-asad-135b87373)
 - Kaggle: [My Kaggle Profile](https://www.kaggle.com/code/usmanasad0/)
